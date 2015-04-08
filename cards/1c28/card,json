@@ -1,0 +1,22 @@
+{
+	"title": "-- unnamed --",
+	"front": "
+		* people stand in circle
+		* center contains topic cards and pencils
+		* people shall adjust distance to center according to their agreement with statement on cards (close to center: agree, far from center: disagree)
+	",
+	"back":"
+		example statements:
+		* i am a morning person
+		* i drink coffee
+		* i like to work at home
+		* i like to work alone
+		* i am a problem solver
+		* i like to lead a team
+	",
+	"tags": [
+		"welcome",
+		"warmup"
+	],
+	"state": "draft"
+}
